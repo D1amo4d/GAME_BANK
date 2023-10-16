@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GAME BANK</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="заработок">Заработок</string>
+    <string name="_0">$ 993</string>
+    <string name="balans">Баланс:</string>
+    <string name="_09_26">09/26</string>
+    <string name="clik">Кликай сюда</string>
+    <string name="_67_987340">67*****987340</string>
+</resources>
